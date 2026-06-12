@@ -1,0 +1,7 @@
+
+frontend/
+backend/
+database/
+ai-services/
+design-system/
+deployment/
